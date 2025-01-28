@@ -1,6 +1,6 @@
 import React from "react";
 import { useEffect, useState } from 'react'
-import Todolist from "./todolist";
+import Todolist from "./Todolist"
 
 export default function () {
 
